@@ -1,0 +1,1 @@
+cat config | sed '/#/d' >new_config
